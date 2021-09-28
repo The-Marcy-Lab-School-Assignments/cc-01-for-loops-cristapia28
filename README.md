@@ -8,9 +8,9 @@
 5. By the end of Code Challenge, **commit and push your changes up to Github**.
 6. Using the browser, verify that your solution is in your remote repo on Github.
 
-## Code Problems
+## Code ProblemsWrite a f
 
-1. Write a function named `countToFifty` that console.logs all the integers from 1 to 50. 
+1. unction named `countToFifty` that console.logs all the integers from 1 to 50. 
 
 2. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer. 
 
